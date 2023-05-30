@@ -102,10 +102,14 @@ Step14. click on debug and simulate using simulation as shown below
 
 
 ## Output screen shots of proteus  :
- 
- 
+ ![7 opt1](https://github.com/Dineshsekhar2004/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119405916/c6d0f7a7-bae9-4b89-9b02-1aaf8e5896d9)
+
+![7 opt 3](https://github.com/Dineshsekhar2004/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119405916/bda16ba0-bcbf-4ecd-8195-1c1bf7d2e30d)
+![7 opt 4](https://github.com/Dineshsekhar2004/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119405916/b80da835-fea9-4e55-a216-0b696b2688ec)
+
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  
+![WhatsApp Image 2023-05-30 at 11 52 25](https://github.com/Dineshsekhar2004/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119405916/bd62d9ae-b4cf-42c2-8cab-dc5217051b00)
 
 ## DUTY CYCLE AND FREQUENCY CALCULATION 
 FOR PULSE AT 500
