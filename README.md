@@ -115,33 +115,35 @@ Step14. click on debug and simulate using simulation as shown below
 #### FOR PULSE AT 500
 ![image](https://github.com/Dineshsekhar2004/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119405916/ed60ccb0-2dc6-4cd3-89bf-195c1b6f6b1f)
 
-
+```
 TON = 8
 TOFF= 8
 TOTAL TIME = 16
 FREQUENCY = 1/(TOTAL TIME)
 FREQUENCY = 62.5Hz
+```
 #### FOR PULSE AT 800
 
 ![image](https://github.com/Dineshsekhar2004/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119405916/9223f1c8-a13b-4a18-9921-89f5dcad51ed)
-
+```
 TON = 13
 TOFF= 3
 TOTAL TIME = 16
 FREQUENCY = 1/(TOTAL TIME)
 FREQUENCY = 62.5Hz
-
+```
 
 #### FOR PULSE AT 900
 
 ![image](https://github.com/Dineshsekhar2004/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119405916/e4a8b88e-da5e-495b-ad3a-a0965466eb64)
 
-
+```
 TON = 14
 TOFF= 2
 TOTAL TIME = 16
 FREQUENCY = 1/(TOTAL TIME)
 FREQUENCY = 62.5Hz
+```
 ## Result :
 A PWM Signal is generated using the following frequency and various duty cycles are simulated 
 
